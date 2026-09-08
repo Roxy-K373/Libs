@@ -7,6 +7,13 @@
       "lib_name": "libXINNMOD.so",
       "download_url": "https://yunaganda.x10.mx/Yuna/libXINNMOD.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "DOIV HAX",
+      "status": "ONLINE",
+      "lib_name": "libDoivhax.so",
+      "download_url": "https://yunaganda.x10.mx/Yuna/libDoivhax.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
 }
